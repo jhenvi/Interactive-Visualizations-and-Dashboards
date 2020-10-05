@@ -11,6 +11,12 @@ Created a bubble chart that displays each sample, `otu_ids` for the x values, `s
 `otu_labels` for the text values.
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
-![bar Chart](Images/hw01.png)
+
 
 ![Bubble Chart](Images/bubble_chart.png)
+![Dashboard](Images/Dashboard.png)
+![dashboard_part1](Images/dashboard_part1.png)
+![dashboard_part2](Images/dashboard_part2.png)
+![Gauge](Images/gauge.png)
+
+![pie_chart](Images/pie_chart.png)
