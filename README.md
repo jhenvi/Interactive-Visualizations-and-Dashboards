@@ -1,6 +1,7 @@
-# Interactive-Visualizations-and-Dashboards
+#Interactive-Visualizations-and-Dashboards
 Interactive dashboard to explore the, which catalogs the microbes that colonize human navels.  The dataset reveals that a small handful of microbial species were present in more than 70% of people, while the rest were relatively rare.
-# Plot.ly Homework - Belly Button Biodiversity
+#Belly Button Biodiversity
+![Dashboard](Images/Dashboard.png)
 Dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
@@ -14,7 +15,6 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 
 
 ![Bubble Chart](Images/bubble_chart.png)
-![Dashboard](Images/Dashboard.png)
 ![dashboard_part1](Images/dashboard_part1.png)
 ![dashboard_part2](Images/dashboard_part2.png)
 ![Gauge](Images/gauge.png)
